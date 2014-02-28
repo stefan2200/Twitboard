@@ -1,0 +1,22 @@
+Thanks for checking out Twitboard Alpha!
+This system uses Python to fetch tweets using the Tweepy API.
+
+Be sure to create a twitter API key first and insert it in the file tweet.py
+The following lines should be changed to your API codes
+ckey = ''
+csecret = ''
+atoken = ''
+asecret = ''
+
+Then download the Tweepy-Master from Github (Download here: https://github.com/tweepy/tweepy)
+And extract it to the twitboard directory!
+
+Usage: python tweet.py
+When asked enter the keyword you want the live stream to show.
+
+Setup your MySQL credentials in "call.php" and import the database from "twitboard.sql"
+
+Browse to your twitboard installation using your browser: http://yourhost/twitboard/board.php and see if everything works right.
+It may take up to several minutes before the stream starts showing live tweets!
+
+If the demo message won't go away you can manually remove it from the database
