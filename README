@@ -8,6 +8,10 @@ csecret = ''
 atoken = ''
 asecret = ''
 
+Then add your MySQL credentials
+
+Default = "root@localhost:3306/twitboard"
+
 Then download the Tweepy-Master from Github (Download here: https://github.com/tweepy/tweepy)
 And extract it to the twitboard directory!
 
