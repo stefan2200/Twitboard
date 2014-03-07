@@ -52,7 +52,7 @@ countdown();
 <body bgcolor="#ADD8E6">
 <div class='board' style="font-size: 30px; height: 80%; background-color: #ADD8E6; text-align: center;">
 <label class="txt">
-Welcome to Impacts Twitboard, Your tweets will start loading in 10 secs
+Welcome to Twitboard, Your tweets will start loading in 10 secs
 </label>
 </div>
 <div style="height: 20%; text-align: center; background-color:#00FFFF;">
